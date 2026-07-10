@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Ajibola 👋
 
-<!--
-**ajibola-komo/ajibola-komo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analytics Engineer passionate about building scalable data platforms and turning raw data into trusted business insights.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 📊 Analytics Engineer
+- 🛠️ SQL | Python | dbt | Snowflake | Airflow | Power BI
+- 🌍 Based in Nigeria
+- 🌱 Currently building production-grade analytics engineering portfolio projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+
+### [FinFlow Product Analytics Engineering Platform](https://github.com/ajibola-komo/FinFlow-Product-Analytics-Engineering-Platform)
+An end-to-end analytics engineering project for a digital investment platform.
+
+**Tech Stack**
+- Snowflake
+- dbt
+- Airflow
+- Python
+- GCP
+- DuckDB
+- Power BI
+
+### [Elecmart Retail Analytics Pipeline](https://github.com/ajibola-komo/Elecmart-Retail-Analytics-Pipeline)
+Production analytics pipeline for retail sales data with dimensional modelling and executive dashboards.
+
+## 🛠 Tech Stack
+
+- SQL
+- Python
+- dbt
+- Snowflake
+- DuckDB
+- AWS S3
+- Power BI
+- Git & GitHub
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/ajibola-komo
