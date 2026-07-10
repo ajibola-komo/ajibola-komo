@@ -1,6 +1,7 @@
 # Hi, I'm Ajibola 👋
 
-**Analytics Engineer | Building production-grade analytics platforms using ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge) • ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge) • ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge) • ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge) • ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge) • ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge)**
+**Analytics Engineer
+Building production-grade analytics platforms using ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge) • ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge) • ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge) • ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge) • ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge) • ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge)**
 
 ## 🚀 About Me
 - 📊 Analytics Engineer
