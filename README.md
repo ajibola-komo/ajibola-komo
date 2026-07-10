@@ -45,7 +45,7 @@ The project demonstrates how transactional retail data can be transformed into r
 
 | Layer | Tool |
 |---|---|
-| Data generation | Python (Faker, NumPy) |
+| Data generation | Python (Faker, NumPy, Pandas) |
 | Compute & Orchestration | AWS EC2 (Linux), Git-based deployment |
 | Storage | Amazon S3 |
 | Warehouse | Snowflake / DuckDB |
