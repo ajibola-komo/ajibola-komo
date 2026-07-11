@@ -55,12 +55,12 @@ The project demonstrates how transactional retail data can be transformed into r
 **Key Capabilities**
 - Automated data ingestion
 - Star schema modelling
-- Incremental ELT pipelines
+- Synthetic Behavioural Data Generation
 - Business KPI modelling
-- Sales and customer analytics
+- Sales, customer, clickstream and inventory analytics
 - Executive reporting
 - Analytics engineering best practices
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/ajibola-komo
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ajibola-komo)
