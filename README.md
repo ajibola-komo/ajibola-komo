@@ -25,9 +25,10 @@ FinFlow models the complete customer lifecycle, from user registration and KYC t
 |---|---|
 | Data generation | Python (Faker, NumPy, Pandas) |
 | Workflow Orchestration| Airflow |
-| Compute & Infrastructre| Google Compute Engine (GCE,Linux), Git-based deployment |
-| Storage/Data Lake | Google Cloud Storage |
-| Warehouse | Snowflake / DuckDB |
+| Compute & Infrastructre| Azure Virtual Machines, Git-based deployment |
+| Storage/Data Lake | Azure Blob Storage |
+| Warehouse | Snowflake |
+| Local Storage | DuckDB |
 | Transformation | dbt |
 | Visualization | Power BI |
 
